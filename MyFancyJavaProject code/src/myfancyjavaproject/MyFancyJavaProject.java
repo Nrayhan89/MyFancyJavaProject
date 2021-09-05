@@ -7,7 +7,7 @@ package myfancyjavaproject;
 
 /**
  *
- * @author Nahid Rayhan
+ * @author Nahid Rayhan  
  */
 public class MyFancyJavaProject {
 
