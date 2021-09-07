@@ -27,6 +27,8 @@ public class MyFancyJavaProject {
         }
         public void showMessage(){
             System.out.println("Hello world");
+            System.out.println("Hello world Second push");
+            
         }
     }
 
