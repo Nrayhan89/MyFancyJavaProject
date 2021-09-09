@@ -18,6 +18,10 @@ public class MyFancyJavaProject {
         // TODO code application logic here
         SingleObject object = new SingleObject();
         object.showMessage();
+
+
+        NavBar npBarProperty = NavBarSingleTon.GetNavBar("Navbar",18 ,20 , NavbarColors.Red);
+        npBarProperty.drawNavbAr();
     }
 
     private static class SingleObject {
